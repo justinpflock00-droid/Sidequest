@@ -47,4 +47,3 @@ jobs:
         with:
           name: SIDEQUEST-APK
           path: extracted/**/build/outputs/apk/debug/*.apk
-
